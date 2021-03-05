@@ -1,0 +1,103 @@
+insert path to graph file:
+1. Add evidence
+2. Reset evidence
+3. Show evidence
+4. Query vertex
+5. Query edge
+6. Query path
+7. Quit
+Type action index: 1
+Enter evidence in the form: v id t/f or e id t t/f
+v 1 t
+
+1. Add evidence
+2. Reset evidence
+3. Show evidence
+4. Query vertex
+5. Query edge
+6. Query path
+7. Quit
+Type action index: 1
+Enter evidence in the form: v id t/f or e id t t/f
+e 0 1 t
+
+1. Add evidence
+2. Reset evidence
+3. Show evidence
+4. Query vertex
+5. Query edge
+6. Query path
+7. Quit
+Type action index: 3
+v 1 True
+e 0 1 True
+
+1. Add evidence
+2. Reset evidence
+3. Show evidence
+4. Query vertex
+5. Query edge
+6. Query path
+7. Quit
+Type action index: 4
+Enter vid: 1
+[1, 0]
+
+1. Add evidence
+2. Reset evidence
+3. Show evidence
+4. Query vertex
+5. Query edge
+6. Query path
+7. Quit
+Type action index: 4
+Enter vid: 2
+[0.4, 0.6]
+
+1. Add evidence
+2. Reset evidence
+3. Show evidence
+4. Query vertex
+5. Query edge
+6. Query path
+7. Quit
+Type action index: 5
+Enter eid: 0
+Enter time: 1
+[1, 0]
+
+1. Add evidence
+2. Reset evidence
+3. Show evidence
+4. Query vertex
+5. Query edge
+6. Query path
+7. Quit
+Type action index: 5
+Enter eid: 0
+Enter time: 0
+[0.999259807549963, 0.0007401924500370097]
+
+1. Add evidence
+2. Reset evidence
+3. Show evidence
+4. Query vertex
+5. Query edge
+6. Query path
+7. Quit
+Type action index: 6
+Enter starting time: 0
+Enter vertices id in path separated by space
+0 1 2 3
+0.0005082068250996448
+
+1. Add evidence
+2. Reset evidence
+3. Show evidence
+4. Query vertex
+5. Query edge
+6. Query path
+7. Quit
+Type action index: 7
+
+Process finished with exit code 0

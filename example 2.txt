@@ -1,0 +1,10 @@
+Evidence:
+v 2 f
+e 0 1 t
+e 2 4 f
+
+Queried Path:
+3 2 1 0
+
+Probability of path being clear while traversing it from time 0:
+0.3382916688995059
